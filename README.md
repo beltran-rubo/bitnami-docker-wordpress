@@ -1,5 +1,7 @@
 [![CircleCI](https://circleci.com/gh/bitnami/bitnami-docker-wordpress/tree/master.svg?style=shield)](https://circleci.com/gh/bitnami/bitnami-docker-wordpress/tree/master)
 
+[![Anchore Image Overview](https://anchore.io/service/badges/image/227a136b7326429932a4e8c88eec7e712fbfeeed90b12fbab78e4ab29bdaa498)](https://anchore.io/image/dockerhub/bitnami%2Fwordpress%3Alatest)
+
 # What is WordPress?
 
 > WordPress is one of the most versatile open source content management systems on the market. WordPress is built for high performance and is scalable to many servers, has easy integration via REST, JSON, SOAP and other formats, and features a whopping 15,000 plugins to extend and customize the application for just about any type of website.
